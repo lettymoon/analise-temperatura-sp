@@ -1,0 +1,5791 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-29T15:40:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2529536",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Taipas",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7133959,
+          -23.4270224
+        ]
+      },
+      "id": "relation/2529536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5715226",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim Amaralina",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7986354,
+          -23.604204
+        ]
+      },
+      "id": "relation/5715226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5715227",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim Romano",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q10306024",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3838298,
+          -23.4803818
+        ]
+      },
+      "id": "relation/5715227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5715228",
+        "admin_level": "10",
+        "alt_name": "Horto",
+        "boundary": "administrative",
+        "name": "Parque Mandaqui",
+        "place": "suburb",
+        "short_name": "Mandaqui",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6343109,
+          -23.4684544
+        ]
+      },
+      "id": "relation/5715228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/205197916",
+        "name": "Interlagos",
+        "place": "suburb",
+        "wikidata": "Q3117701",
+        "wikimedia_commons": "Category:Interlagos",
+        "wikipedia": "pt:Interlagos (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7082912,
+          -23.7011674
+        ]
+      },
+      "id": "node/205197916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243072564",
+        "name": "Tatuapé",
+        "place": "suburb",
+        "wikidata": "Q9300168",
+        "wikimedia_commons": "Category:Tatuapé",
+        "wikipedia": "pt:Tatuapé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5750093,
+          -23.5408911
+        ]
+      },
+      "id": "node/243072564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253716659",
+        "description": "A delimitação foi realizada de acordo com o conhecimento da região por moradores de longa data (a mais de 20 anos e residência).",
+        "name": "Alto do Rivieira",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7617207,
+          -23.6993644
+        ]
+      },
+      "id": "way/253716659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253717214",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Jardim Helga",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7738845,
+          -23.6429602
+        ]
+      },
+      "id": "way/253717214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253717845",
+        "fixme": "Ajustado, precisa verificar alguma fonte oficial sobre o limite sudeste",
+        "name": "Jardim Rosana",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7744491,
+          -23.6465184
+        ]
+      },
+      "id": "way/253717845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253717858",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Jardim Santa Fé",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7124536,
+          -23.8312661
+        ]
+      },
+      "id": "way/253717858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253718292",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Jardim São Norberto",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.705151,
+          -23.8197035
+        ]
+      },
+      "id": "way/253718292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253719338",
+        "description": "Vila Teotônio Pavão",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Jardim Papai Noel",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7021657,
+          -23.8252331
+        ]
+      },
+      "id": "way/253719338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368179749",
+        "alt_name": "Engenheiro Marsilac",
+        "name": "Marsilac",
+        "place": "suburb",
+        "source": "IBGE",
+        "wikidata": "Q6773956",
+        "wikipedia": "pt:Marsilac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7061053,
+          -23.9083907
+        ]
+      },
+      "id": "node/368179749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368179752",
+        "name": "Parelheiros",
+        "place": "suburb",
+        "source": "IBGE",
+        "wikidata": "Q7136717",
+        "wikipedia": "pt:Parelheiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7277941,
+          -23.827312
+        ]
+      },
+      "id": "node/368179752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368179763",
+        "name": "São Mateus",
+        "place": "suburb",
+        "source": "IBGE",
+        "wikidata": "Q7665632",
+        "wikimedia_commons": "Category:São Mateus, São Paulo city",
+        "wikipedia": "pt:São Mateus (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4817046,
+          -23.5982995
+        ]
+      },
+      "id": "node/368179763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368179775",
+        "name": "Sapopemba",
+        "place": "suburb",
+        "source": "IBGE",
+        "wikidata": "Q10368359",
+        "wikimedia_commons": "Category:Sapopemba",
+        "wikipedia": "pt:Sapopemba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5098851,
+          -23.6043265
+        ]
+      },
+      "id": "node/368179775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368179785",
+        "IBGE:GEOCODIGO": "351570710",
+        "name": "Santa Margarida Paulista",
+        "place": "suburb",
+        "source": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.39891,
+          -23.518102
+        ]
+      },
+      "id": "node/368179785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/408988505",
+        "name": "Vila Leopoldina",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.732947,
+          -23.5275027
+        ]
+      },
+      "id": "node/408988505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/494743298",
+        "name": "Casa Verde",
+        "place": "suburb",
+        "wikidata": "Q9698149",
+        "wikimedia_commons": "Category:Casa Verde",
+        "wikipedia": "pt:Casa Verde (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6561379,
+          -23.5059269
+        ]
+      },
+      "id": "node/494743298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/494743302",
+        "name": "Limão",
+        "place": "suburb",
+        "wikidata": "Q10318414",
+        "wikimedia_commons": "Category:Limão (São Paulo)",
+        "wikipedia": "pt:Limão (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6752722,
+          -23.5033149
+        ]
+      },
+      "id": "node/494743302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/597503785",
+        "description": "Jardim São Nicolau",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Jardim São Nicolau",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6975329,
+          -23.8273906
+        ]
+      },
+      "id": "way/597503785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/659306725",
+        "description": "Jardim Santa Terezinha (Parelheiros)",
+        "name": "Jardim Santa Terezinha",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6965545,
+          -23.8525559
+        ]
+      },
+      "id": "way/659306725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/804525256",
+        "name": "Cerqueira César",
+        "place": "suburb",
+        "wikidata": "Q9736089",
+        "wikipedia": "pt:Cerqueira César (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6657633,
+          -23.5610386
+        ]
+      },
+      "id": "node/804525256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904629798",
+        "name": "Perdizes",
+        "place": "suburb",
+        "wikidata": "Q10348536",
+        "wikipedia": "pt:Perdizes (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6709816,
+          -23.5399887
+        ]
+      },
+      "id": "node/904629798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904629799",
+        "name": "Sumaré",
+        "place": "suburb",
+        "wikidata": "Q10374776",
+        "wikipedia": "pt:Sumaré (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6811739,
+          -23.5453787
+        ]
+      },
+      "id": "node/904629799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904629800",
+        "name": "Pacaembu",
+        "place": "suburb",
+        "wikidata": "Q10343378",
+        "wikimedia_commons": "Category:Pacaembu (São Paulo neighbourhood)",
+        "wikipedia": "pt:Pacaembu (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6678702,
+          -23.5483884
+        ]
+      },
+      "id": "node/904629800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905083503",
+        "name": "Alto de Pinheiros",
+        "place": "suburb",
+        "wikidata": "Q4736827",
+        "wikimedia_commons": "Category:Alto de Pinheiros",
+        "wikipedia": "pt:Alto de Pinheiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7076422,
+          -23.5499064
+        ]
+      },
+      "id": "node/905083503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905083508",
+        "name": "Vila Madalena",
+        "place": "suburb",
+        "wikidata": "Q7312252",
+        "wikimedia_commons": "Category:Vila Madalena",
+        "wikipedia": "pt:Vila Madalena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6911869,
+          -23.5555025
+        ]
+      },
+      "id": "node/905083508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914050460",
+        "name": "Vila Beatriz",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6977786,
+          -23.5499684
+        ]
+      },
+      "id": "node/914050460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914050462",
+        "name": "Pompéia",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6849797,
+          -23.5305556
+        ]
+      },
+      "id": "node/914050462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/917171894",
+        "name": "Higienópolis",
+        "place": "suburb",
+        "wikidata": "Q10295528",
+        "wikimedia_commons": "Category:Higienópolis (São Paulo)",
+        "wikipedia": "pt:Higienópolis (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6544499,
+          -23.5442937
+        ]
+      },
+      "id": "node/917171894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918540458",
+        "name": "São Domingos",
+        "place": "suburb",
+        "wikidata": "Q10375640",
+        "wikimedia_commons": "Category:São Domingos (São Paulo)",
+        "wikipedia": "pt:São Domingos (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7421942,
+          -23.4938759
+        ]
+      },
+      "id": "node/918540458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918543701",
+        "name": "Morro Doce",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7958736,
+          -23.4459858
+        ]
+      },
+      "id": "node/918543701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918543711",
+        "name": "Jardim Santa Fé",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7947114,
+          -23.4268997
+        ]
+      },
+      "id": "node/918543711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/923588346",
+        "name": "Lapa",
+        "place": "suburb",
+        "wikidata": "Q3429727",
+        "wikimedia_commons": "Category:Lapa (São Paulo)",
+        "wikipedia": "pt:Lapa (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7043491,
+          -23.5215756
+        ]
+      },
+      "id": "node/923588346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/929554325",
+        "district": "Vila Mariana",
+        "name": "Jardim Vila Mariana",
+        "place": "suburb",
+        "wikidata": "Q10306208",
+        "wikipedia": "pt:Jardim Vila Mariana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6261595,
+          -23.5923787
+        ]
+      },
+      "id": "node/929554325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934863888",
+        "name": "Aricanduva",
+        "place": "suburb",
+        "wikidata": "Q4790289",
+        "wikimedia_commons": "Category:Aricanduva (São Paulo)",
+        "wikipedia": "pt:Aricanduva (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.511454,
+          -23.5780239
+        ]
+      },
+      "id": "node/934863888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1000297662",
+        "name": "Jardim Europa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6823072,
+          -23.5737047
+        ]
+      },
+      "id": "node/1000297662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1000297670",
+        "district": "Vila Mariana",
+        "name": "Paraíso",
+        "place": "suburb",
+        "wikidata": "Q10344748",
+        "wikipedia": "pt:Paraíso (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6482539,
+          -23.5738424
+        ]
+      },
+      "id": "node/1000297670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1068591929",
+        "name": "Pinheiros",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6882506,
+          -23.560754
+        ]
+      },
+      "id": "way/1068591929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078341307",
+        "district": "Sapopemba",
+        "name": "Jardim São Roberto",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5008895,
+          -23.6199445
+        ]
+      },
+      "id": "way/1078341307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1258059362",
+        "name": "Jardim Melo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.635203,
+          -23.6865424
+        ]
+      },
+      "id": "node/1258059362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1384106767",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim das Oliveiras",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3781159,
+          -23.4932482
+        ]
+      },
+      "id": "way/1384106767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1388193189",
+        "name": "Jardim Apurá",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6584285,
+          -23.7123738
+        ]
+      },
+      "id": "node/1388193189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1610605045",
+        "name": "Ermelino Matarazzo",
+        "place": "suburb",
+        "wikidata": "Q10273672",
+        "wikimedia_commons": "Category:Ermelino Matarazzo (district of São Paulo)",
+        "wikipedia": "pt:Ermelino Matarazzo (distrito)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4824048,
+          -23.4902552
+        ]
+      },
+      "id": "node/1610605045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1610612161",
+        "name": "Ponte Rasa",
+        "place": "suburb",
+        "wikidata": "Q10351379",
+        "wikimedia_commons": "Category:Ponte Rasa",
+        "wikipedia": "pt:Ponte Rasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4870517,
+          -23.5110455
+        ]
+      },
+      "id": "node/1610612161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682423498",
+        "name": "Jardim Pedro José Nunes",
+        "place": "suburb",
+        "wikidata": "Q18466721",
+        "wikipedia": "pt:Jardim Pedro José Nunes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.465787,
+          -23.5015079
+        ]
+      },
+      "id": "node/1682423498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685306044",
+        "name": "Jardim Arpoador",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7910827,
+          -23.5949812
+        ]
+      },
+      "id": "node/1685306044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685306048",
+        "name": "Jardim João XXIII",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7927124,
+          -23.6028459
+        ]
+      },
+      "id": "node/1685306048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685306049",
+        "name": "Jardim Boa Vista",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7913503,
+          -23.5815403
+        ]
+      },
+      "id": "node/1685306049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685307256",
+        "name": "Parque Ipê",
+        "place": "suburb",
+        "source": "Morador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7971705,
+          -23.5957714
+        ]
+      },
+      "id": "node/1685307256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697551967",
+        "name": "Parque dos Príncipes",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7709742,
+          -23.5756693
+        ]
+      },
+      "id": "node/1697551967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697551983",
+        "name": "Jardim D'Abril",
+        "place": "suburb",
+        "wikidata": "Q10305625",
+        "wikipedia": "pt:Jardim D'Abril"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7795188,
+          -23.5738706
+        ]
+      },
+      "id": "node/1697551983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707558490",
+        "name": "Vila Ipojuca",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7084654,
+          -23.5335192
+        ]
+      },
+      "id": "node/1707558490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707884909",
+        "name": "Vila Anglo-Brasileira",
+        "place": "suburb",
+        "wikidata": "Q10390602",
+        "wikimedia_commons": "Category:Vila Anglo Brasileira",
+        "wikipedia": "pt:Vila Anglo Brasileira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69492,
+          -23.5400826
+        ]
+      },
+      "id": "node/1707884909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931122",
+        "name": "Bairro Siciliano",
+        "place": "suburb",
+        "short_name": "Siciliano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6983219,
+          -23.5343382
+        ]
+      },
+      "id": "node/1707931122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931125",
+        "name": "Bela Aliança",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7225147,
+          -23.5248526
+        ]
+      },
+      "id": "node/1707931125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931127",
+        "name": "Boaçava",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7226097,
+          -23.540313
+        ]
+      },
+      "id": "node/1707931127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931135",
+        "name": "Sumarezinho",
+        "place": "suburb",
+        "wikidata": "Q10374772",
+        "wikipedia": "pt:Sumarezinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6921511,
+          -23.5471111
+        ]
+      },
+      "id": "node/1707931135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931140",
+        "name": "Vila Argentina",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7048754,
+          -23.5375059
+        ]
+      },
+      "id": "node/1707931140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931149",
+        "name": "Vila Hamburguesa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7262582,
+          -23.5334607
+        ]
+      },
+      "id": "node/1707931149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707931152",
+        "name": "Vila Ida",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7074196,
+          -23.5431007
+        ]
+      },
+      "id": "node/1707931152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707967225",
+        "name": "Vila Anastácio",
+        "place": "suburb",
+        "wikidata": "Q10390596",
+        "wikipedia": "pt:Vila Anastácio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7182463,
+          -23.5155169
+        ]
+      },
+      "id": "node/1707967225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822482786",
+        "name": "Parque Monteiro Soares",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6877119,
+          -23.4904769
+        ]
+      },
+      "id": "node/1822482786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1895614008",
+        "name": "Jaguara",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7472338,
+          -23.513823
+        ]
+      },
+      "id": "node/1895614008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1910726219",
+        "alt_name": "Vila Amália",
+        "name": "Vila Amélia",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6528931,
+          -23.471303
+        ]
+      },
+      "id": "node/1910726219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936083395",
+        "name": "Cidade Tiradentes",
+        "place": "suburb",
+        "wikidata": "Q18466184",
+        "wikimedia_commons": "Category:Cidade Tiradentes",
+        "wikipedia": "pt:Cidade Tiradentes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3970559,
+          -23.5801711
+        ]
+      },
+      "id": "node/1936083395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021982600",
+        "name": "Bixiga",
+        "place": "suburb",
+        "wikidata": "Q3640593",
+        "wikimedia_commons": "Category:Bixiga",
+        "wikipedia": "pt:Bixiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6468132,
+          -23.5577085
+        ]
+      },
+      "id": "node/2021982600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2076975854",
+        "name": "Parque Mandaqui",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6334207,
+          -23.4664042
+        ]
+      },
+      "id": "node/2076975854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2097475317",
+        "alt_name": "Forte de Trinidade",
+        "name": "Jardim Iporã",
+        "place": "suburb",
+        "place_1": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7117903,
+          -23.7839695
+        ]
+      },
+      "id": "node/2097475317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261345634",
+        "name": "Santana",
+        "official_name": "Subprefeitura de Santana-Tucuruvi",
+        "place": "suburb",
+        "population": "327279",
+        "wikidata": "Q7420037",
+        "wikimedia_commons": "Category:Santana (São Paulo Metro)",
+        "wikipedia": "pt:Estação Santana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6270233,
+          -23.5021182
+        ]
+      },
+      "id": "node/2261345634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261345635",
+        "name": "Tremembé",
+        "official_name": "Subprefeitura de Jaçanã/Tremembé",
+        "place": "suburb",
+        "population": "255435",
+        "wikidata": "Q7838106",
+        "wikimedia_commons": "Category:Tremembé, São Paulo city",
+        "wikipedia": "pt:Tremembé (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6029761,
+          -23.4482881
+        ]
+      },
+      "id": "node/2261345635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261345636",
+        "name": "Vila Maria",
+        "official_name": "Subprefeitura da Vila Maria",
+        "place": "suburb",
+        "population": "302899",
+        "wikidata": "Q10390943",
+        "wikimedia_commons": "Category:Vila Maria (São Paulo)",
+        "wikipedia": "pt:Vila Maria (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5891557,
+          -23.5131836
+        ]
+      },
+      "id": "node/2261345636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2342791980",
+        "name": "Parque Continental",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7582103,
+          -23.5445527
+        ]
+      },
+      "id": "node/2342791980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580803700",
+        "name": "Jardim Três Marias",
+        "place": "suburb",
+        "wikidata": "Q10306182",
+        "wikipedia": "pt:Jardim Três Marias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4934118,
+          -23.517715
+        ]
+      },
+      "id": "node/2580803700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580804882",
+        "name": "Jardim Lisboa",
+        "place": "suburb",
+        "wikidata": "Q10305804",
+        "wikipedia": "pt:Jardim Lisboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4977812,
+          -23.5196635
+        ]
+      },
+      "id": "node/2580804882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580874436",
+        "name": "Jardim Nordeste",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4845035,
+          -23.5331087
+        ]
+      },
+      "id": "node/2580874436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580876421",
+        "name": "Parque das Paineiras",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4829875,
+          -23.537549
+        ]
+      },
+      "id": "node/2580876421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583059588",
+        "name": "Vila São Francisco",
+        "place": "suburb",
+        "wikidata": "Q10351379",
+        "wikimedia_commons": "Category:Ponte Rasa",
+        "wikipedia": "pt:Vila São Francisco (São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4911783,
+          -23.5187828
+        ]
+      },
+      "id": "node/2583059588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583513745",
+        "name": "Cidade Antônio Estêvão de Carvalho",
+        "place": "suburb",
+        "short_name": "Cidade A. E. de Carvalho",
+        "wikidata": "Q18465755",
+        "wikipedia": "pt:Cidade Antônio Estêvão de Carvalho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4699282,
+          -23.5354377
+        ]
+      },
+      "id": "node/2583513745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583542508",
+        "name": "Jardim Popular",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5037729,
+          -23.5168481
+        ]
+      },
+      "id": "node/2583542508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583562287",
+        "name": "Vila Ré",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4978419,
+          -23.5283751
+        ]
+      },
+      "id": "node/2583562287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583564286",
+        "name": "Vila Granada",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5143047,
+          -23.5235058
+        ]
+      },
+      "id": "node/2583564286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583567728",
+        "name": "Vila Marieta",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5231628,
+          -23.5163924
+        ]
+      },
+      "id": "node/2583567728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583593131",
+        "name": "Vila Rio Branco",
+        "place": "suburb",
+        "wikidata": "Q10391181",
+        "wikipedia": "pt:Vila Rio Branco (Ponte Rasa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.494894,
+          -23.5119382
+        ]
+      },
+      "id": "node/2583593131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2584288606",
+        "name": "Burgo Paulista",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4823717,
+          -23.5253848
+        ]
+      },
+      "id": "node/2584288606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2586670167",
+        "name": "Artur Alvim",
+        "place": "suburb",
+        "wikidata": "Q4801589",
+        "wikimedia_commons": "Category:Artur Alvim",
+        "wikipedia": "pt:Artur Alvim (distrito)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4897914,
+          -23.5404687
+        ]
+      },
+      "id": "node/2586670167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2595330850",
+        "name": "Vila Costa Melo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5140675,
+          -23.5153984
+        ]
+      },
+      "id": "node/2595330850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2595330857",
+        "name": "Vila Buenos Aires",
+        "place": "suburb",
+        "wikidata": "Q10390671",
+        "wikipedia": "pt:Vila Buenos Aires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5147421,
+          -23.5091576
+        ]
+      },
+      "id": "node/2595330857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600571132",
+        "name": "Engenheiro Goulart",
+        "place": "suburb",
+        "wikidata": "Q10272920",
+        "wikipedia": "pt:Engenheiro Goulart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527816,
+          -23.5004492
+        ]
+      },
+      "id": "node/2600571132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714590684",
+        "name": "Rio Pequeno",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7586552,
+          -23.5708857
+        ]
+      },
+      "id": "node/2714590684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714596081",
+        "name": "Vila Carrão",
+        "place": "suburb",
+        "wikidata": "Q7929977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5385802,
+          -23.5498671
+        ]
+      },
+      "id": "node/2714596081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714602584",
+        "name": "Itaquera",
+        "place": "suburb",
+        "wikidata": "Q6094072",
+        "wikipedia": "pt:Itaquera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4555099,
+          -23.5360799
+        ]
+      },
+      "id": "node/2714602584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714605300",
+        "name": "República",
+        "place": "suburb",
+        "wikidata": "Q10359571",
+        "wikipedia": "pt:República (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6409783,
+          -23.5437248
+        ]
+      },
+      "id": "node/2714605300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714609852",
+        "name": "Sé",
+        "place": "suburb",
+        "wikidata": "Q7665833",
+        "wikimedia_commons": "Category:Sé (São Paulo)",
+        "wikipedia": "pt:Sé (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6317734,
+          -23.5488069
+        ]
+      },
+      "id": "node/2714609852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714628617",
+        "name": "Moema",
+        "place": "suburb",
+        "wikidata": "Q9300178",
+        "wikimedia_commons": "Category:Moema (São Paulo)",
+        "wikipedia": "pt:Moema (distrito)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6628884,
+          -23.597085
+        ]
+      },
+      "id": "node/2714628617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714642529",
+        "name": "Grajaú",
+        "place": "suburb",
+        "wikidata": "Q10290864",
+        "wikimedia_commons": "Category:Grajaú",
+        "wikipedia": "pt:Grajaú (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6737655,
+          -23.7799713
+        ]
+      },
+      "id": "node/2714642529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714650702",
+        "name": "Barra Funda",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6736608,
+          -23.5210941
+        ]
+      },
+      "id": "node/2714650702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714657796",
+        "name": "Bela Vista",
+        "place": "suburb",
+        "wikidata": "Q4881795",
+        "wikimedia_commons": "Category:Bela Vista (São Paulo district)",
+        "wikipedia": "pt:Bela Vista (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6500338,
+          -23.5601219
+        ]
+      },
+      "id": "node/2714657796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714662259",
+        "name": "Bom Retiro",
+        "place": "suburb",
+        "wikidata": "Q4940332",
+        "wikimedia_commons": "Category:Bom Retiro (São Paulo)",
+        "wikipedia": "pt:Bom Retiro (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6381644,
+          -23.5251634
+        ]
+      },
+      "id": "node/2714662259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714666119",
+        "name": "Brás",
+        "place": "suburb",
+        "wikidata": "Q12084541",
+        "wikimedia_commons": "Category:Brás",
+        "wikipedia": "pt:Brás (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6172504,
+          -23.5429572
+        ]
+      },
+      "id": "node/2714666119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714668223",
+        "name": "Consolação",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6601294,
+          -23.5492405
+        ]
+      },
+      "id": "node/2714668223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714671814",
+        "name": "Liberdade",
+        "name:ja": "リベルダーデ",
+        "place": "suburb",
+        "wikidata": "Q10317888",
+        "wikimedia_commons": "Category:Liberdade (São Paulo)",
+        "wikipedia": "pt:Liberdade (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6313629,
+          -23.5664506
+        ]
+      },
+      "id": "node/2714671814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714677556",
+        "name": "Pedreira",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6519145,
+          -23.7079449
+        ]
+      },
+      "id": "node/2714677556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714680237",
+        "name": "Santo Amaro",
+        "place": "suburb",
+        "wikidata": "Q2223621",
+        "wikimedia_commons": "Category:Subprefecture of Santo Amaro",
+        "wikipedia": "pt:Subprefeitura de Santo Amaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7007164,
+          -23.6405602
+        ]
+      },
+      "id": "node/2714680237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714681529",
+        "name": "Mooca",
+        "place": "suburb",
+        "wikidata": "Q1761180",
+        "wikimedia_commons": "Category:Mooca",
+        "wikipedia": "pt:Mooca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5971924,
+          -23.5606808
+        ]
+      },
+      "id": "node/2714681529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714683684",
+        "name": "Raposo Tavares",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.785197,
+          -23.5909877
+        ]
+      },
+      "id": "node/2714683684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714793741",
+        "name": "São Rafael",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.455405,
+          -23.6270938
+        ]
+      },
+      "id": "node/2714793741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714797118",
+        "name": "Freguesia do Ó",
+        "place": "suburb",
+        "wikidata": "Q10285869",
+        "wikimedia_commons": "Category:Freguesia do Ó",
+        "wikipedia": "pt:Freguesia do Ó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6951317,
+          -23.4874636
+        ]
+      },
+      "id": "node/2714797118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714818930",
+        "name": "Sacomã",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5969515,
+          -23.6115054
+        ]
+      },
+      "id": "node/2714818930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714879151",
+        "name": "Capão Redondo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7798413,
+          -23.6710997
+        ]
+      },
+      "id": "node/2714879151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714880148",
+        "name": "Jardim São Luís",
+        "note": "Esta região possui potencial para a ocorrência de deslizamentos",
+        "place": "suburb",
+        "wikidata": "Q10306135",
+        "wikimedia_commons": "Category:Jardim São Luís",
+        "wikipedia": "pt:Jardim São Luís"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7407377,
+          -23.6739274
+        ]
+      },
+      "id": "node/2714880148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714881252",
+        "name": "Socorro",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7092524,
+          -23.6840338
+        ]
+      },
+      "id": "node/2714881252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714883511",
+        "name": "Cidade Ademar",
+        "place": "suburb",
+        "wikidata": "Q18697265",
+        "wikimedia_commons": "Category:Cidade Ademar",
+        "wikipedia": "pt:Cidade Ademar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6552806,
+          -23.6730116
+        ]
+      },
+      "id": "node/2714883511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714886290",
+        "name": "Campo Limpo",
+        "place": "suburb",
+        "wikidata": "Q9686033",
+        "wikimedia_commons": "Category:Campo Limpo, São Paulo city",
+        "wikipedia": "pt:Campo Limpo (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7627968,
+          -23.6361999
+        ]
+      },
+      "id": "node/2714886290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714887392",
+        "name": "Vila Andrade",
+        "place": "suburb",
+        "wikidata": "Q10390600",
+        "wikimedia_commons": "Category:Vila Andrade",
+        "wikipedia": "pt:Vila Andrade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7269894,
+          -23.625687
+        ]
+      },
+      "id": "node/2714887392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716396530",
+        "name": "Belém",
+        "place": "suburb",
+        "wikidata": "Q9653813",
+        "wikimedia_commons": "Category:Belém, São Paulo city",
+        "wikipedia": "pt:Belém (São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5949387,
+          -23.5348833
+        ]
+      },
+      "id": "node/2716396530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2719633410",
+        "name": "Água Rasa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5707669,
+          -23.5661088
+        ]
+      },
+      "id": "node/2719633410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2719636356",
+        "name": "Vila Prudente",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5726471,
+          -23.5915159
+        ]
+      },
+      "id": "node/2719636356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2719682876",
+        "name": "São Lucas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5430627,
+          -23.5948313
+        ]
+      },
+      "id": "node/2719682876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2719735524",
+        "name": "Vila Matilde",
+        "place": "suburb",
+        "wikidata": "Q10390966",
+        "wikimedia_commons": "Category:Vila Matilde (São Paulo)",
+        "wikipedia": "pt:Vila Matilde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.524605,
+          -23.536179
+        ]
+      },
+      "id": "node/2719735524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726220710",
+        "name": "Jabaquara",
+        "place": "suburb",
+        "wikidata": "Q10304645",
+        "wikimedia_commons": "Category:Jabaquara",
+        "wikipedia": "pt:Jabaquara (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.645451,
+          -23.6487101
+        ]
+      },
+      "id": "node/2726220710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726222234",
+        "name": "Vila Formosa",
+        "place": "suburb",
+        "wikidata": "Q10390812",
+        "wikimedia_commons": "Category:Vila Formosa",
+        "wikipedia": "pt:Vila Formosa (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5463233,
+          -23.5668764
+        ]
+      },
+      "id": "node/2726222234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726234511",
+        "name": "Iguatemi",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4250404,
+          -23.6110664
+        ]
+      },
+      "id": "node/2726234511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726234783",
+        "name": "Guaianases",
+        "place": "suburb",
+        "wikidata": "Q10292354",
+        "wikimedia_commons": "Category:Guaianases",
+        "wikipedia": "pt:Guaianases"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4069533,
+          -23.5522554
+        ]
+      },
+      "id": "node/2726234783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726241703",
+        "name": "José Bonifácio",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4353534,
+          -23.5665859
+        ]
+      },
+      "id": "node/2726241703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2745965316",
+        "name": "Lajeado",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4088939,
+          -23.5348823
+        ]
+      },
+      "id": "node/2745965316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2745988442",
+        "name": "Vila Medeiros",
+        "place": "suburb",
+        "wikidata": "Q7929997",
+        "wikimedia_commons": "Category:Vila Medeiros",
+        "wikipedia": "pt:Vila Medeiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5844955,
+          -23.487707
+        ]
+      },
+      "id": "node/2745988442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746004940",
+        "name": "Parque Taipas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7137028,
+          -23.428522
+        ]
+      },
+      "id": "node/2746004940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795653755",
+        "name": "Vila Buarque",
+        "place": "suburb",
+        "wikidata": "Q10390670",
+        "wikimedia_commons": "Category:Vila Buarque",
+        "wikipedia": "pt:Vila Buarque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.647552,
+          -23.5445621
+        ]
+      },
+      "id": "node/2795653755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795663774",
+        "name": "Santa Cecília",
+        "place": "suburb",
+        "wikidata": "Q10367764",
+        "wikipedia": "pt:Santa Cecília (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6573587,
+          -23.5379492
+        ]
+      },
+      "id": "node/2795663774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795664627",
+        "name": "Jardim Paulista",
+        "place": "suburb",
+        "wikidata": "Q6159661",
+        "wikimedia_commons": "Category:Jardim Paulista (district of São Paulo)",
+        "wikipedia": "pt:Jardim Paulista (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6601846,
+          -23.5652185
+        ]
+      },
+      "id": "node/2795664627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830534181",
+        "name": "Cambuci",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.618471,
+          -23.5673017
+        ]
+      },
+      "id": "node/3830534181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830534182",
+        "name": "Campo Belo",
+        "place": "suburb",
+        "wikidata": "Q9685950",
+        "wikimedia_commons": "Category:Campo Belo (São Paulo)",
+        "wikipedia": "pt:Campo Belo (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.670417,
+          -23.6299339
+        ]
+      },
+      "id": "node/3830534182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830534183",
+        "district": "Cursino",
+        "name": "Jardim Previdência",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6175165,
+          -23.6225846
+        ]
+      },
+      "id": "node/3830534183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830534184",
+        "name": "Ipiranga",
+        "place": "suburb",
+        "wikidata": "Q10303488",
+        "wikipedia": "pt:Ipiranga (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6026685,
+          -23.5945353
+        ]
+      },
+      "id": "node/3830534184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830534186",
+        "district": "Vila Mariana",
+        "name": "Vila Mariana",
+        "place": "suburb",
+        "wikidata": "Q10390949",
+        "wikipedia": "pt:Vila Mariana (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6357123,
+          -23.5925361
+        ]
+      },
+      "id": "node/3830534186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830534187",
+        "name": "Vila Sônia",
+        "place": "suburb",
+        "wikidata": "Q4022726",
+        "wikimedia_commons": "Category:Vila Sônia",
+        "wikipedia": "pt:Vila Sônia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7392935,
+          -23.5986562
+        ]
+      },
+      "id": "node/3830534187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3861320381",
+        "name": "Vila Mazzei",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6008217,
+          -23.4729562
+        ]
+      },
+      "id": "node/3861320381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3861320382",
+        "name": "Bortolândia",
+        "place": "suburb",
+        "wikidata": "Q16502206",
+        "wikipedia": "pt:Bortolândia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.598442,
+          -23.4546742
+        ]
+      },
+      "id": "node/3861320382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863001111",
+        "name": "Vila Guilhermina",
+        "place": "suburb",
+        "wikidata": "Q10390839",
+        "wikipedia": "pt:Vila Guilhermina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5153418,
+          -23.533387
+        ]
+      },
+      "id": "node/3863001111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863001112",
+        "name": "Cangaíba",
+        "place": "suburb",
+        "wikidata": "Q9694268",
+        "wikimedia_commons": "Category:Cangaíba",
+        "wikipedia": "pt:Cangaíba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5314253,
+          -23.5058996
+        ]
+      },
+      "id": "node/3863001112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863036998",
+        "name": "Jardim França",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6143865,
+          -23.4771766
+        ]
+      },
+      "id": "node/3863036998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863036999",
+        "name": "Parque Palmas do Tremembé",
+        "place": "suburb",
+        "wikidata": "Q10345283",
+        "wikipedia": "pt:Parque Palmas do Tremembé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6075123,
+          -23.4605731
+        ]
+      },
+      "id": "node/3863036999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863065125",
+        "name": "Vila Azevedo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5713601,
+          -23.5426905
+        ]
+      },
+      "id": "node/3863065125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863080294",
+        "name": "Vila Isolina Mazzei",
+        "place": "suburb",
+        "wikidata": "Q10390877",
+        "wikipedia": "pt:Vila Isolina Mazzei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6038231,
+          -23.4930386
+        ]
+      },
+      "id": "node/3863080294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863080295",
+        "name": "Vila Albertina",
+        "place": "suburb",
+        "wikidata": "Q10390581",
+        "wikipedia": "pt:Vila Albertina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6113118,
+          -23.4520555
+        ]
+      },
+      "id": "node/3863080295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863080296",
+        "name": "Jardim São Paulo",
+        "place": "suburb",
+        "wikidata": "Q10306149",
+        "wikimedia_commons": "Category:Jardim São Paulo",
+        "wikipedia": "pt:Jardim São Paulo (Santana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6187979,
+          -23.4910142
+        ]
+      },
+      "id": "node/3863080296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863080297",
+        "name": "Vila Aurora",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6256,
+          -23.4742267
+        ]
+      },
+      "id": "node/3863080297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863080299",
+        "name": "Jardim Peri",
+        "place": "suburb",
+        "wikidata": "Q10305957",
+        "wikipedia": "pt:Jardim Peri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6668812,
+          -23.4570897
+        ]
+      },
+      "id": "node/3863080299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863107134",
+        "name": "Jaraguá",
+        "place": "suburb",
+        "wikidata": "Q6122919",
+        "wikimedia_commons": "Category:Jaguara (São Paulo)",
+        "wikipedia": "pt:Jaguara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7395122,
+          -23.455682
+        ]
+      },
+      "id": "node/3863107134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863107135",
+        "name": "Parque Nações Unidas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7375747,
+          -23.4463355
+        ]
+      },
+      "id": "node/3863107135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863136317",
+        "name": "Jardim Britânia",
+        "place": "suburb",
+        "wikidata": "Q10305558",
+        "wikipedia": "pt:Jardim Britânia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7835995,
+          -23.4345532
+        ]
+      },
+      "id": "node/3863136317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863136318",
+        "name": "Jardim Danfer",
+        "place": "suburb",
+        "wikidata": "Q10305627",
+        "wikipedia": "pt:Jardim Danfer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5067477,
+          -23.5024969
+        ]
+      },
+      "id": "node/3863136318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863170746",
+        "name": "Jardim Robru",
+        "place": "suburb",
+        "wikidata": "Q10306025",
+        "wikipedia": "pt:Jardim Robru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4122035,
+          -23.5220964
+        ]
+      },
+      "id": "node/3863170746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863170747",
+        "name": "Parque da Mooca",
+        "place": "suburb",
+        "wikidata": "Q10345440",
+        "wikipedia": "pt:Parque da Mooca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5869081,
+          -23.5705085
+        ]
+      },
+      "id": "node/3863170747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3863181814",
+        "alt_name": "Baixada do Glicério",
+        "loc_name": "Várzea do Glicério",
+        "name": "Glicério",
+        "place": "suburb",
+        "wikidata": "Q10290095",
+        "wikimedia_commons": "Category:Glicério (São Paulo neighbourhood)",
+        "wikipedia": "pt:Glicério (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6290085,
+          -23.5530554
+        ]
+      },
+      "id": "node/3863181814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864810818",
+        "alt_name": "Penha de França",
+        "name": "Penha",
+        "place": "suburb",
+        "wikidata": "Q7162811",
+        "wikimedia_commons": "Category:Penha (São Paulo)",
+        "wikipedia": "pt:Penha (São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5437815,
+          -23.523683
+        ]
+      },
+      "id": "node/3864810818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864810819",
+        "name": "Vila Esperança",
+        "place": "suburb",
+        "wikidata": "Q10390785",
+        "wikipedia": "pt:Vila Esperança (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277235,
+          -23.5255852
+        ]
+      },
+      "id": "node/3864810819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864814340",
+        "alt_name": "Vila Limoeiro",
+        "name": "Limoeiro",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4660017,
+          -23.5093496
+        ]
+      },
+      "id": "node/3864814340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864820283",
+        "name": "Jardim Brasil",
+        "place": "suburb",
+        "wikidata": "Q10305551",
+        "wikipedia": "pt:Jardim Brasil (Vila Medeiros)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5764471,
+          -23.4819102
+        ]
+      },
+      "id": "node/3864820283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864821179",
+        "name": "Parque Novo Mundo",
+        "place": "suburb",
+        "wikidata": "Q10345276",
+        "wikimedia_commons": "Category:Parque Novo Mundo",
+        "wikipedia": "pt:Parque Novo Mundo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5684596,
+          -23.5144938
+        ]
+      },
+      "id": "node/3864821179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864821180",
+        "name": "Jardim Japão",
+        "place": "suburb",
+        "wikidata": "Q10305777",
+        "wikipedia": "pt:Jardim Japão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5808888,
+          -23.5021791
+        ]
+      },
+      "id": "node/3864821180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865845541",
+        "name": "Imirim",
+        "place": "suburb",
+        "wikidata": "Q10301492",
+        "wikimedia_commons": "Category:Imirim",
+        "wikipedia": "pt:Imirim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6470601,
+          -23.4910951
+        ]
+      },
+      "id": "node/3865845541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865934764",
+        "name": "Parque Guarani",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4629905,
+          -23.5181608
+        ]
+      },
+      "id": "node/3865934764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865934765",
+        "name": "Vila Chavantes",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4422707,
+          -23.5147409
+        ]
+      },
+      "id": "node/3865934765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865936387",
+        "name": "Parque Savoy City",
+        "place": "suburb",
+        "short_name": "Parque Savoy",
+        "wikidata": "Q10345329",
+        "wikipedia": "pt:Parque Savoy City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4894831,
+          -23.5632664
+        ]
+      },
+      "id": "node/3865936387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865936388",
+        "name": "Jardim Imperador",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4995977,
+          -23.5863755
+        ]
+      },
+      "id": "node/3865936388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865944659",
+        "name": "Jardim Anália Franco",
+        "place": "suburb",
+        "wikidata": "Q10305459",
+        "wikimedia_commons": "Category:Jardim Anália Franco",
+        "wikipedia": "pt:Jardim Anália Franco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5622613,
+          -23.5557765
+        ]
+      },
+      "id": "node/3865944659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865944660",
+        "name": "Campos Elísios",
+        "place": "suburb",
+        "wikidata": "Q9693127",
+        "wikimedia_commons": "Category:Campos Elíseos (São Paulo)",
+        "wikipedia": "pt:Campos Elísios (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64774,
+          -23.5320539
+        ]
+      },
+      "id": "node/3865944660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865983759",
+        "name": "Piqueri",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7123753,
+          -23.499963
+        ]
+      },
+      "id": "node/3865983759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868977383",
+        "name": "Vila Laís",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5418779,
+          -23.5179561
+        ]
+      },
+      "id": "node/3868977383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868977384",
+        "name": "Cidade Patriarca",
+        "place": "suburb",
+        "wikidata": "Q18466171",
+        "wikipedia": "pt:Cidade Patriarca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5039285,
+          -23.5390931
+        ]
+      },
+      "id": "node/3868977384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869013557",
+        "name": "Jardim Camargo Novo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3837673,
+          -23.5043429
+        ]
+      },
+      "id": "node/3869013557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869013558",
+        "name": "Itaim Paulista",
+        "place": "suburb",
+        "wikidata": "Q10304155",
+        "wikimedia_commons": "Category:Itaim Paulista",
+        "wikipedia": "pt:Itaim Paulista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3996091,
+          -23.5017648
+        ]
+      },
+      "id": "node/3869013558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869021957",
+        "name": "Canindé",
+        "place": "suburb",
+        "wikidata": "Q9694357",
+        "wikimedia_commons": "Category:Canindé (São Paulo)",
+        "wikipedia": "pt:Canindé (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6205256,
+          -23.5269919
+        ]
+      },
+      "id": "node/3869021957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869021958",
+        "name": "Pari",
+        "place": "suburb",
+        "wikidata": "Q10344794",
+        "wikipedia": "pt:Pari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6158488,
+          -23.532976
+        ]
+      },
+      "id": "node/3869021958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869044477",
+        "name": "Vila Guilherme",
+        "place": "suburb",
+        "wikidata": "Q7929984",
+        "wikimedia_commons": "Category:Vila Guilherme",
+        "wikipedia": "pt:Vila Guilherme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6079618,
+          -23.5170972
+        ]
+      },
+      "id": "node/3869044477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869044478",
+        "name": "Vila Ede",
+        "place": "suburb",
+        "wikidata": "Q10390768",
+        "wikipedia": "pt:Vila Ede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5933904,
+          -23.4936595
+        ]
+      },
+      "id": "node/3869044478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869044479",
+        "name": "Vila Gustavo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5958215,
+          -23.480713
+        ]
+      },
+      "id": "node/3869044479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869071257",
+        "name": "Parque Vitória",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5947064,
+          -23.4713113
+        ]
+      },
+      "id": "node/3869071257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869071258",
+        "name": "Jaçanã",
+        "place": "suburb",
+        "wikidata": "Q9301276",
+        "wikimedia_commons": "Category:Jaçanã (São Paulo)",
+        "wikipedia": "pt:Jaçanã (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.582443,
+          -23.4629935
+        ]
+      },
+      "id": "node/3869071258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869071259",
+        "name": "Vila Nilo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.574454,
+          -23.4601735
+        ]
+      },
+      "id": "node/3869071259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869071260",
+        "name": "Jardim Guapira",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5887224,
+          -23.4573682
+        ]
+      },
+      "id": "node/3869071260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869071261",
+        "name": "Furnas",
+        "place": "suburb",
+        "wikidata": "Q25446716",
+        "wikipedia": "pt:Furnas (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59357,
+          -23.4431295
+        ]
+      },
+      "id": "node/3869071261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869071262",
+        "name": "Jardim Fontalis",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5770716,
+          -23.4358302
+        ]
+      },
+      "id": "node/3869071262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869082969",
+        "name": "Horto Florestal",
+        "place": "suburb",
+        "wikidata": "Q10298270",
+        "wikipedia": "pt:Horto Florestal (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6287381,
+          -23.4543776
+        ]
+      },
+      "id": "node/3869082969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869082970",
+        "name": "Parada Inglesa",
+        "place": "suburb",
+        "wikidata": "Q10344490",
+        "wikipedia": "pt:Parada Inglesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6091055,
+          -23.4861894
+        ]
+      },
+      "id": "node/3869082970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869082971",
+        "name": "Água Fria",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62499,
+          -23.4817879
+        ]
+      },
+      "id": "node/3869082971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869103434",
+        "name": "Jardim São Bento",
+        "place": "suburb",
+        "wikidata": "Q10306111",
+        "wikipedia": "pt:Jardim São Bento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6487467,
+          -23.5050514
+        ]
+      },
+      "id": "node/3869103434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869768232",
+        "name": "Parque São Jorge",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5660668,
+          -23.5299682
+        ]
+      },
+      "id": "node/3869768232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869769891",
+        "name": "Itaim Bibi",
+        "place": "suburb",
+        "wikidata": "Q6092447",
+        "wikimedia_commons": "Category:Itaim Bibi",
+        "wikipedia": "pt:Itaim Bibi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6784441,
+          -23.5843807
+        ]
+      },
+      "id": "node/3869769891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869769892",
+        "name": "Vila Olímpia",
+        "place": "suburb",
+        "wikidata": "Q986011",
+        "wikimedia_commons": "Category:Vila Olímpia",
+        "wikipedia": "pt:Vila Olímpia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6842299,
+          -23.5940375
+        ]
+      },
+      "id": "node/3869769892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869797157",
+        "name": "Cidade Jardim",
+        "place": "suburb",
+        "wikidata": "Q18465965",
+        "wikipedia": "pt:Cidade Jardim (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6990243,
+          -23.5898336
+        ]
+      },
+      "id": "node/3869797157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869797158",
+        "name": "Morumbi",
+        "place": "suburb",
+        "wikidata": "Q374245",
+        "wikimedia_commons": "Category:Morumbi",
+        "wikipedia": "pt:Morumbi (São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7067746,
+          -23.5974288
+        ]
+      },
+      "id": "node/3869797158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869797159",
+        "name": "Indianópolis",
+        "place": "suburb",
+        "wikidata": "Q10301972",
+        "wikipedia": "pt:Indianópolis (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6689221,
+          -23.6074637
+        ]
+      },
+      "id": "node/3869797159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869797160",
+        "name": "Brooklin Novo",
+        "place": "suburb",
+        "wikidata": "Q4974691",
+        "wikimedia_commons": "Category:Brooklin",
+        "wikipedia": "pt:Brooklin Novo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6883182,
+          -23.6214866
+        ]
+      },
+      "id": "node/3869797160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869797161",
+        "name": "Paraisópolis",
+        "place": "suburb",
+        "population": "58.527 habitantes",
+        "population:date": "2022",
+        "source:population": "https://pt.wikipedia.org/wiki/Censo_demogr%C3%A1fico_do_Brasil_de_2022",
+        "wikidata": "Q3051939",
+        "wikimedia_commons": "Category:Paraisópolis (São Paulo)",
+        "wikipedia": "pt:Paraisópolis (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7257516,
+          -23.6153036
+        ]
+      },
+      "id": "node/3869797161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869811857",
+        "name": "Jaguaré",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7440686,
+          -23.5492216
+        ]
+      },
+      "id": "node/3869811857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871376135",
+        "name": "Casa Verde Alta",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6565761,
+          -23.497698
+        ]
+      },
+      "id": "node/3871376135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871376136",
+        "name": "Alto de Santana",
+        "place": "suburb",
+        "wikidata": "Q4736831",
+        "wikimedia_commons": "Category:Alto de Santana",
+        "wikipedia": "pt:Alto de Santana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6300515,
+          -23.4887815
+        ]
+      },
+      "id": "node/3871376136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871376137",
+        "name": "Água Branca",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7021626,
+          -23.5117516
+        ]
+      },
+      "id": "node/3871376137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871394541",
+        "name": "Pinheiros",
+        "place": "suburb",
+        "wikidata": "Q10349850",
+        "wikipedia": "pt:Pinheiros (bairro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6857037,
+          -23.5635704
+        ]
+      },
+      "id": "node/3871394541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871394542",
+        "name": "Jardim Marajoara",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6849371,
+          -23.6553634
+        ]
+      },
+      "id": "node/3871394542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874599603",
+        "name": "Cidade Líder",
+        "place": "suburb",
+        "wikidata": "Q18466046",
+        "wikimedia_commons": "Category:Cidade Líder",
+        "wikipedia": "pt:Cidade Líder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4943334,
+          -23.5627696
+        ]
+      },
+      "id": "node/3874599603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874599604",
+        "name": "Jardim Romano",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3840889,
+          -23.4803729
+        ]
+      },
+      "id": "node/3874599604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874599605",
+        "name": "Jardim Ângela",
+        "place": "suburb",
+        "wikidata": "Q10306374",
+        "wikimedia_commons": "Category:Jardim Ângela",
+        "wikipedia": "pt:Jardim Ângela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7687195,
+          -23.7125278
+        ]
+      },
+      "id": "node/3874599605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874599606",
+        "name": "Pirituba",
+        "place": "suburb",
+        "wikidata": "Q3304309",
+        "wikimedia_commons": "Category:Pirituba",
+        "wikipedia": "pt:Pirituba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7219385,
+          -23.485533
+        ]
+      },
+      "id": "node/3874599606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876393096",
+        "name": "Vila Sabrina",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5766581,
+          -23.4912022
+        ]
+      },
+      "id": "node/3876393096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3883493948",
+        "name": "Brasilândia",
+        "place": "suburb",
+        "wikidata": "Q9664370",
+        "wikimedia_commons": "Category:Brasilândia (São Paulo)",
+        "wikipedia": "pt:Brasilândia (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6913891,
+          -23.4649661
+        ]
+      },
+      "id": "node/3883493948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884918673",
+        "name": "Tucuruvi",
+        "place": "suburb",
+        "wikidata": "Q3309828",
+        "wikimedia_commons": "Category:Tucuruvi (São Paulo Metro)",
+        "wikipedia": "pt:Estação Tucuruvi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6052628,
+          -23.480623
+        ]
+      },
+      "id": "node/3884918673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884946671",
+        "name": "Jardim Leonor Mendes de Barros",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6106314,
+          -23.4662424
+        ]
+      },
+      "id": "node/3884946671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885134033",
+        "name": "Vila Paulicéia",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6146814,
+          -23.4882686
+        ]
+      },
+      "id": "node/3885134033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885140309",
+        "name": "São Miguel",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4390788,
+          -23.4948785
+        ]
+      },
+      "id": "node/3885140309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885142695",
+        "name": "Vila Curuçá",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4240451,
+          -23.5027103
+        ]
+      },
+      "id": "node/3885142695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885395671",
+        "alt_name": "Bairro Vila Jaraguá",
+        "name": "Chácara Jaraguá",
+        "place": "suburb",
+        "source": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7912194,
+          -23.4380214
+        ]
+      },
+      "id": "node/3885395671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939527909",
+        "name": "Vila Aricanduva",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5415824,
+          -23.536301
+        ]
+      },
+      "id": "node/3939527909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939542831",
+        "name": "Burgo Paulista",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4848585,
+          -23.5228434
+        ]
+      },
+      "id": "node/3939542831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939543457",
+        "name": "Vila Nova Curuça",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4191889,
+          -23.5171184
+        ]
+      },
+      "id": "node/3939543457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939556843",
+        "name": "Santa Ifigênia",
+        "place": "suburb",
+        "wikidata": "Q10367854",
+        "wikimedia_commons": "Category:Santa Ifigênia (São Paulo)",
+        "wikipedia": "pt:Santa Ifigênia (bairro de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6391827,
+          -23.5376199
+        ]
+      },
+      "id": "node/3939556843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939556844",
+        "name": "Bairro da Luz",
+        "place": "suburb",
+        "short_name": "Luz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6319611,
+          -23.5336388
+        ]
+      },
+      "id": "node/3939556844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939556845",
+        "name": "Chacara Cruzeiro do Sul",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5340548,
+          -23.5107749
+        ]
+      },
+      "id": "node/3939556845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944215255",
+        "name": "Vila Rosa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6300603,
+          -23.4589264
+        ]
+      },
+      "id": "node/3944215255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944215457",
+        "name": "Lauzane Paulista",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6445383,
+          -23.4713573
+        ]
+      },
+      "id": "node/3944215457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944215467",
+        "name": "Jardim Etelvina",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4192543,
+          -23.5301752
+        ]
+      },
+      "id": "node/3944215467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944215468",
+        "name": "Jardim Ipê",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.414543,
+          -23.5002153
+        ]
+      },
+      "id": "node/3944215468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944683900",
+        "name": "Vila Jacuí",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4519529,
+          -23.5051091
+        ]
+      },
+      "id": "node/3944683900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4070089237",
+        "name": "Ferreira",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7497326,
+          -23.6076439
+        ]
+      },
+      "id": "node/4070089237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4150232427",
+        "name": "Vila Clementino",
+        "place": "suburb",
+        "wikidata": "Q25447363",
+        "wikipedia": "pt:Vila Clementino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6434179,
+          -23.5980058
+        ]
+      },
+      "id": "node/4150232427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163372410",
+        "name": "Mandaqui",
+        "place": "suburb",
+        "wikidata": "Q6747827",
+        "wikimedia_commons": "Category:Mandaqui",
+        "wikipedia": "pt:Mandaqui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6416113,
+          -23.4636929
+        ]
+      },
+      "id": "node/4163372410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163372411",
+        "name": "Cachoeirinha",
+        "place": "suburb",
+        "wikidata": "Q18466645",
+        "wikimedia_commons": "Category:Cachoeirinha, São Paulo city",
+        "wikipedia": "pt:Cachoeirinha (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6610721,
+          -23.4630177
+        ]
+      },
+      "id": "node/4163372411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4165851986",
+        "name": "Butantã",
+        "name:ja": "ブタンタン",
+        "name:pt": "Butantã",
+        "place": "suburb",
+        "wikidata": "Q5002363",
+        "wikimedia_commons": "Category:Butantã",
+        "wikipedia": "pt:Butantã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7278225,
+          -23.5693582
+        ]
+      },
+      "id": "node/4165851986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4165853428",
+        "name": "Parque do Carmo",
+        "place": "suburb",
+        "wikidata": "Q10345505",
+        "wikipedia": "pt:Parque do Carmo (distrito de São Paulo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.458056,
+          -23.5787082
+        ]
+      },
+      "id": "node/4165853428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177239487",
+        "name": "Vila Alpina",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5589304,
+          -23.5958577
+        ]
+      },
+      "id": "node/4177239487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177265195",
+        "name": "Parada XV de Novembro",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4344073,
+          -23.5302754
+        ]
+      },
+      "id": "node/4177265195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4196230005",
+        "name": "Vila Dalila",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5203526,
+          -23.5463973
+        ]
+      },
+      "id": "node/4196230005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310363417",
+        "district": "VIla Mariana",
+        "name": "Jardim Aurélia",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6241604,
+          -23.5959428
+        ]
+      },
+      "id": "node/4310363417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310415970",
+        "name": "Jardim da Glória",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6219813,
+          -23.5827197
+        ]
+      },
+      "id": "node/4310415970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310417441",
+        "name": "Aclimação",
+        "place": "suburb",
+        "wikidata": "Q4674331",
+        "wikimedia_commons": "Category:Aclimação",
+        "wikipedia": "pt:Aclimação"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6268011,
+          -23.5671021
+        ]
+      },
+      "id": "node/4310417441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310420100",
+        "name": "Vila Monumento",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6137805,
+          -23.5764219
+        ]
+      },
+      "id": "node/4310420100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311619640",
+        "district": "Saúde",
+        "name": "São Judas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6356704,
+          -23.6253816
+        ]
+      },
+      "id": "node/4311619640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311619641",
+        "name": "VIla Prado",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6754694,
+          -23.493709
+        ]
+      },
+      "id": "node/4311619641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317651957",
+        "name": "Vila Dom Pedro I",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6136603,
+          -23.6019303
+        ]
+      },
+      "id": "node/4317651957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317654890",
+        "district": "Cursino",
+        "name": "Vila Gumercindo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6209505,
+          -23.6046683
+        ]
+      },
+      "id": "node/4317654890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338824056",
+        "name": "Jardim Almeida",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7284859,
+          -23.8013288
+        ]
+      },
+      "id": "node/4338824056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358172902",
+        "name": "São João Climaco",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5941503,
+          -23.6242684
+        ]
+      },
+      "id": "node/4358172902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358191125",
+        "name": "Vila Moinho Velho",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6032972,
+          -23.6120298
+        ]
+      },
+      "id": "node/4358191125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4487415002",
+        "name": "Jardim Imperador (Zona Sul)",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6071139,
+          -23.6432748
+        ]
+      },
+      "id": "node/4487415002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547032844",
+        "name": "Vila Gomes Cardim",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5617029,
+          -23.5451502
+        ]
+      },
+      "id": "node/4547032844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4649080841",
+        "name": "Jardim Guaraú",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7666459,
+          -23.5954435
+        ]
+      },
+      "id": "node/4649080841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707575768",
+        "name": "Jardim Silva Teles",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4079303,
+          -23.5011873
+        ]
+      },
+      "id": "node/4707575768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4724206142",
+        "name": "Jardim Guarujá",
+        "note": "Esta região possui potencial para a ocorrência de deslizamentos e processo de solapamento de margem\n",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7898945,
+          -23.6937284
+        ]
+      },
+      "id": "node/4724206142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760826463",
+        "name": "Jardim Paulo VI",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7872301,
+          -23.5997211
+        ]
+      },
+      "id": "node/4760826463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768754365",
+        "name": "Vila Cardoso Franco",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5061704,
+          -23.6250707
+        ]
+      },
+      "id": "node/4768754365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768844818",
+        "name": "Jardim São Roberto",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4987297,
+          -23.6181147
+        ]
+      },
+      "id": "node/4768844818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768909857",
+        "name": "Fazenda da Juta",
+        "place": "suburb",
+        "wikidata": "Q86726120",
+        "wikipedia": "pt:Fazenda da Juta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4902795,
+          -23.6199234
+        ]
+      },
+      "id": "node/4768909857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789006798",
+        "name": "Chácara Flora",
+        "place": "suburb",
+        "wikidata": "Q40442445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6854358,
+          -23.646765
+        ]
+      },
+      "id": "node/4789006798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821532050",
+        "name": "Jardim Brasília",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4927353,
+          -23.5546442
+        ]
+      },
+      "id": "node/4821532050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4823235652",
+        "name": "Jardim São Luís (Zona leste)",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3862855,
+          -23.4961343
+        ]
+      },
+      "id": "node/4823235652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928705",
+        "district": "Cursino",
+        "name": "Vila Santo Estéfano",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6242477,
+          -23.6234977
+        ]
+      },
+      "id": "node/4856928705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928706",
+        "name": "Bosque da Saúde",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6251697,
+          -23.6094152
+        ]
+      },
+      "id": "node/4856928706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928707",
+        "district": "Cursino",
+        "name": "Jardim da Saúde",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6185362,
+          -23.6171973
+        ]
+      },
+      "id": "node/4856928707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928708",
+        "district": "Cursino",
+        "name": "Vila das Mercês",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6085346,
+          -23.6231613
+        ]
+      },
+      "id": "node/4856928708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928709",
+        "district": "Saúde",
+        "name": "Mirandópolis",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6424478,
+          -23.608307
+        ]
+      },
+      "id": "node/4856928709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928710",
+        "district": "Saúde",
+        "name": "Chácara Inglesa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6323198,
+          -23.608307
+        ]
+      },
+      "id": "node/4856928710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928711",
+        "district": "Bela Vista",
+        "name": "Morro dos Ingleses",
+        "place": "suburb",
+        "wikidata": "Q10332530",
+        "wikipedia": "pt:Morro dos Ingleses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6473877,
+          -23.5615632
+        ]
+      },
+      "id": "node/4856928711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928712",
+        "district": "Saúde",
+        "name": "Vila Monte Alegre",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6352361,
+          -23.6275981
+        ]
+      },
+      "id": "node/4856928712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928713",
+        "district": "Saúde",
+        "name": "Parque Imperial",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6352066,
+          -23.6220795
+        ]
+      },
+      "id": "node/4856928713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856928714",
+        "district": "Jabaquara",
+        "name": "Vila Guarani",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6366761,
+          -23.6366083
+        ]
+      },
+      "id": "node/4856928714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080636603",
+        "district": "Cursino",
+        "name": "Vila Firmiano Pinto",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6194234,
+          -23.5989037
+        ]
+      },
+      "id": "node/5080636603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118795921",
+        "name": "Vila da Saúde",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6366592,
+          -23.6186644
+        ]
+      },
+      "id": "node/5118795921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118795922",
+        "district": "Saúde",
+        "name": "Vila do Bosque",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6299228,
+          -23.6204028
+        ]
+      },
+      "id": "node/5118795922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5207415844",
+        "name": "Vargem Grande",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7076294,
+          -23.860568
+        ]
+      },
+      "id": "node/5207415844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5276511917",
+        "name": "Lagoa Grande",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7771147,
+          -23.8449471
+        ]
+      },
+      "id": "node/5276511917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308579166",
+        "name": "Vila Sá Barbosa",
+        "place": "suburb",
+        "wikidata": "Q55756769",
+        "wikimedia_commons": "Category:Vila Sá Barbosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6271835,
+          -23.5310216
+        ]
+      },
+      "id": "node/5308579166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5588644669",
+        "alt_name": "Colônia Paulista",
+        "name": "Colônia",
+        "old_name": "Colonia Alemã",
+        "place": "suburb",
+        "wikidata": "Q9821373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6990131,
+          -23.8491678
+        ]
+      },
+      "id": "node/5588644669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5597522525",
+        "name": "Vila Arriete",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6824429,
+          -23.6821499
+        ]
+      },
+      "id": "node/5597522525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610047457",
+        "name": "Conjunto Habitacional Padre Manoel da Nobrega",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4790104,
+          -23.5454002
+        ]
+      },
+      "id": "node/5610047457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5618568127",
+        "name": "Jardim Jussara",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7597237,
+          -23.5955395
+        ]
+      },
+      "id": "node/5618568127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5719020109",
+        "name": "Jardim Modelo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5756811,
+          -23.4678052
+        ]
+      },
+      "id": "node/5719020109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732649096",
+        "name": "Chácara Everest",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8070705,
+          -23.5952396
+        ]
+      },
+      "id": "node/5732649096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747582818",
+        "name": "Jardim Dracena",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7597262,
+          -23.5927619
+        ]
+      },
+      "id": "node/5747582818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816679733",
+        "name": "Jardim Papai Noel",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7024022,
+          -23.8254716
+        ]
+      },
+      "id": "node/5816679733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816679734",
+        "name": "Jardim São Norberto",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7050479,
+          -23.8188671
+        ]
+      },
+      "id": "node/5816679734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816679735",
+        "name": "Jardim São Nicolau",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6974912,
+          -23.827615
+        ]
+      },
+      "id": "node/5816679735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5986658414",
+        "addr:postcode": "04801-000",
+        "addr:street": "Avenida Senador Teotônio Vilela",
+        "description": "Cidade Dutra é um distrito pertencente à subprefeitura da Capela do Socorro, localizado na Região Sul do município de São Paulo, no Brasil.",
+        "ele": "760",
+        "email": "cidadedutranaweb@gmail.com",
+        "fax": "+55 11 3397-2700",
+        "fixme": "A história do distrito iniciou-se em meados de 1930, quando um grupo de empresários liderados por Luís Romero Samson criou a empresa Auto Estrada S/A. O objetivo era construir uma ligação entre São Paulo e o então município de Santo Amaro.",
+        "level": "0",
+        "name": "Cidade Dutra",
+        "nohousenumber": "yes",
+        "note": "No distrito, está localizado o Autódromo José Carlos Pacce, também conhecido como Autódromo de Interlagos, onde, desde 1989, acontece o Grande Prêmio do Brasil de Fórmula 1, além de outras competições de automobilismo.",
+        "payment:account_cards": "yes",
+        "payment:american_express": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:cryptocurrencies": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:dkv": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:ep_geldkarte": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:none": "yes",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:uta": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+55 11 3397-2700",
+        "place": "suburb",
+        "population": "203473",
+        "source": "survey;local knowledge;gps;aerial imagery;streetlevel imagery",
+        "start_date": "1930",
+        "website": "https://www.cidadedutranaweb.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q18465913",
+        "wikimedia_commons": "Category:Cidade Dutra",
+        "wikipedia": "pt:Cidade Dutra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6990882,
+          -23.7139643
+        ]
+      },
+      "id": "node/5986658414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6206874028",
+        "name": "Jardim Santa Terezinha",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6963257,
+          -23.8524554
+        ]
+      },
+      "id": "node/6206874028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6379974334",
+        "name": "City Jaraguá",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7343069,
+          -23.4385795
+        ]
+      },
+      "id": "node/6379974334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6416992639",
+        "name": "Jardim Miriam",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6396596,
+          -23.6810039
+        ]
+      },
+      "id": "node/6416992639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515766232",
+        "alt_name": "Nova Heliopolis",
+        "alt_name:pt": "Helipa City",
+        "name": "Nova Heliópolis",
+        "place": "suburb",
+        "population": "200000",
+        "population:date": "2018",
+        "source:population": "wikipedia",
+        "wikidata": "Q966600",
+        "wikimedia_commons": "Category:Cidade Nova Heliópolis",
+        "wikipedia": "pt:Cidade Nova Heliópolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5910089,
+          -23.6125972
+        ]
+      },
+      "id": "node/6515766232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6568069747",
+        "name": "Vila Progresso",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4324327,
+          -23.5175108
+        ]
+      },
+      "id": "node/6568069747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6570476900",
+        "name": "Jardim Santa Cruz",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5974152,
+          -23.6406118
+        ]
+      },
+      "id": "node/6570476900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6577471580",
+        "name": "Jardim Helena",
+        "place": "suburb",
+        "wikidata": "Q10305714",
+        "wikimedia_commons": "Category:Jardim Helena (São Paulo)",
+        "wikipedia": "pt:Jardim Helena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4196826,
+          -23.479635
+        ]
+      },
+      "id": "node/6577471580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578673562",
+        "name": "Parada de Taípas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7169586,
+          -23.4352886
+        ]
+      },
+      "id": "node/6578673562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578709976",
+        "name": "Vila Souza",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7165213,
+          -23.434319
+        ]
+      },
+      "id": "node/6578709976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578709984",
+        "name": "Jardim Pirituba",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7205286,
+          -23.4367799
+        ]
+      },
+      "id": "node/6578709984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6583029827",
+        "name": "Vila Arapuã",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5906251,
+          -23.6350916
+        ]
+      },
+      "id": "node/6583029827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7084941902",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Vila Grão Mogol",
+        "place": "suburb",
+        "source": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4043778,
+          -23.4899885
+        ]
+      },
+      "id": "node/7084941902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7084941965",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Vila Aymoré",
+        "place": "suburb",
+        "source": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4013898,
+          -23.4876712
+        ]
+      },
+      "id": "node/7084941965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7084942055",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Vila Itaim",
+        "place": "suburb",
+        "source": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4007568,
+          -23.4913907
+        ]
+      },
+      "id": "node/7084942055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8649145973",
+        "name": "Nova América",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6742608,
+          -23.8651749
+        ]
+      },
+      "id": "node/8649145973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920102130",
+        "name": "Vila Marisa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7602587,
+          -23.5084859
+        ]
+      },
+      "id": "node/8920102130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8978548687",
+        "name": "Estrada Vitório Trentin",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.797964,
+          -23.7230447
+        ]
+      },
+      "id": "node/8978548687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657091685",
+        "name": "União de Vila Nova",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4585784,
+          -23.4844126
+        ]
+      },
+      "id": "node/9657091685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10974318660",
+        "name": "Bairro da Coroa",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6130701,
+          -23.5190497
+        ]
+      },
+      "id": "node/10974318660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11520012492",
+        "name": "jardim piratininga",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5344374,
+          -23.5004749
+        ]
+      },
+      "id": "node/11520012492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11608864194",
+        "fixme": "Vielas provavelmente erradas, e o lugar e uma favela",
+        "name": "Iguaçu",
+        "place": "suburb",
+        "residential": "irregular_settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5218753,
+          -23.6130815
+        ]
+      },
+      "id": "node/11608864194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11880004198",
+        "name": "Jardim Sapopemba",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4927394,
+          -23.6094924
+        ]
+      },
+      "id": "node/11880004198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11880040809",
+        "name": "Conjunto Habitacional Teotônio Vilela",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5036559,
+          -23.6060541
+        ]
+      },
+      "id": "node/11880040809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11880166656",
+        "name": "Vila Bancária",
+        "place": "suburb",
+        "wikidata": "Q10390625",
+        "wikipedia": "pt:Vila Bancária"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5229995,
+          -23.5895946
+        ]
+      },
+      "id": "node/11880166656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11880166657",
+        "name": "Vila Tolstói",
+        "place": "suburb",
+        "wikidata": "Q10391316",
+        "wikipedia": "pt:Vila Tolstói"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5249038,
+          -23.5991361
+        ]
+      },
+      "id": "node/11880166657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12030046295",
+        "name": "Carandiru",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6256481,
+          -23.5122768
+        ]
+      },
+      "id": "node/12030046295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12999571690",
+        "name": "Cidade Vargas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.636193,
+          -23.6463946
+        ]
+      },
+      "id": "node/12999571690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12999583203",
+        "name": "Vila Santa Catarina",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6569566,
+          -23.6516782
+        ]
+      },
+      "id": "node/12999583203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13015342973",
+        "name": "Parque Boturussu",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4838764,
+          -23.4986599
+        ]
+      },
+      "id": "node/13015342973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13020722668",
+        "name": "Perus",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7520629,
+          -23.407529
+        ]
+      },
+      "id": "node/13020722668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13020734411",
+        "name": "Anhanguera",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8079644,
+          -23.4209929
+        ]
+      },
+      "id": "node/13020734411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13020871505",
+        "name": "Vila Caiuba",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7497404,
+          -23.3996607
+        ]
+      },
+      "id": "node/13020871505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13021548081",
+        "name": "Campo Grande",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6892543,
+          -23.6708976
+        ]
+      },
+      "id": "node/13021548081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13021586180",
+        "name": "Cursino",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6213002,
+          -23.635293
+        ]
+      },
+      "id": "node/13021586180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13025375728",
+        "name": "Chácara Santo Antônio",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7038751,
+          -23.6298197
+        ]
+      },
+      "id": "node/13025375728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13038017337",
+        "name": "Caxingui",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7165496,
+          -23.5804466
+        ]
+      },
+      "id": "node/13038017337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13043512236",
+        "name": "Jardins",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6678314,
+          -23.5738078
+        ]
+      },
+      "id": "node/13043512236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13102050568",
+        "name": "Granja Julieta",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7057896,
+          -23.6358906
+        ]
+      },
+      "id": "node/13102050568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13102070687",
+        "name": "Jardim Santo Amaro",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6960195,
+          -23.6521728
+        ]
+      },
+      "id": "node/13102070687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13102098003",
+        "name": "Jardim dos Estados",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6824091,
+          -23.6371984
+        ]
+      },
+      "id": "node/13102098003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13102098004",
+        "name": "Jardim Petrópolis",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6839133,
+          -23.6316703
+        ]
+      },
+      "id": "node/13102098004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13102098005",
+        "name": "Brooklin Velho",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6801055,
+          -23.6271355
+        ]
+      },
+      "id": "node/13102098005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13102098412",
+        "name": "Chácara Monte Alegre",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6769894,
+          -23.644373
+        ]
+      },
+      "id": "node/13102098412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13300583079",
+        "name": "Vila Conde do Pinhal",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5937959,
+          -23.6180521
+        ]
+      },
+      "id": "node/13300583079"
+    }
+  ]
+}

@@ -1,0 +1,1614 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-29T15:53:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2531936",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cabuçu de Cima",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5139245,
+          -23.375909
+        ]
+      },
+      "id": "relation/2531936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2531937",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cabuçu",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.530922,
+          -23.415494
+        ]
+      },
+      "id": "relation/2531937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2541643",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Mato das Cobras",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4123775,
+          -23.3849525
+        ]
+      },
+      "id": "relation/2541643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2541644",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Morro Grande",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3847315,
+          -23.3274255
+        ]
+      },
+      "id": "relation/2541644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2541645",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Sadokim",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3799945,
+          -23.4068717
+        ]
+      },
+      "id": "relation/2541645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2541646",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Bonsucesso",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.401657,
+          -23.4121135
+        ]
+      },
+      "id": "relation/2541646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2541647",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Presidente Dutra",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q121410400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.435911,
+          -23.4270905
+        ]
+      },
+      "id": "relation/2541647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2541648",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Lavras",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44109,
+          -23.4063231
+        ]
+      },
+      "id": "relation/2541648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542857",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Aeroporto Internacional Governador André Franco Montoro",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.466615,
+          -23.4378227
+        ]
+      },
+      "id": "relation/2542857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542858",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Aracília",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3714545,
+          -23.42759
+        ]
+      },
+      "id": "relation/2542858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542859",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Capelinha",
+        "name:etymology": "Capela Bom Jesus",
+        "place": "suburb",
+        "population": "228",
+        "population:date": "2010",
+        "source:population": "IBGE",
+        "type": "boundary",
+        "wikidata": "Q20053150",
+        "wikipedia": "pt:Capelinha (Guarulhos)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4259131,
+          -23.3575911
+        ]
+      },
+      "id": "relation/2542859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542860",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cumbica",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.460106,
+          -23.4575864
+        ]
+      },
+      "id": "relation/2542860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542862",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Pimentas",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4172234,
+          -23.4575794
+        ]
+      },
+      "id": "relation/2542862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542863",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Água Azul",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q10395626",
+        "wikipedia": "pt:Água Azul (distrito de Guarulhos)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4017905,
+          -23.3567191
+        ]
+      },
+      "id": "relation/2542863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2542864",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Água Chata",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3909898,
+          -23.4344566
+        ]
+      },
+      "id": "relation/2542864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548913",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Bom Clima",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5175607,
+          -23.4509815
+        ]
+      },
+      "id": "relation/2548913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548915",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Centro",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q18483568",
+        "wikipedia": "pt:Centro (Guarulhos)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5298581,
+          -23.4667867
+        ]
+      },
+      "id": "relation/2548915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548917",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Fátima",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5077606,
+          -23.458315
+        ]
+      },
+      "id": "relation/2548917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548918",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Gopoúva",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q10290665",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5443283,
+          -23.4676715
+        ]
+      },
+      "id": "relation/2548918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548919",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Itapegica",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5528553,
+          -23.4856155
+        ]
+      },
+      "id": "relation/2548919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548920",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Taboão",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q10377745",
+        "wikipedia": "pt:Taboão (Guarulhos)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5035109,
+          -23.4248067
+        ]
+      },
+      "id": "relation/2548920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548921",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Jardim Vila Galvão",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.561192,
+          -23.4663725
+        ]
+      },
+      "id": "relation/2548921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548924",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Monte Carmelo",
+        "name:etymology": "Mount Carmel",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q64816330",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5111695,
+          -23.4443044
+        ]
+      },
+      "id": "relation/2548924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548925",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Morros",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5233011,
+          -23.4244484
+        ]
+      },
+      "id": "relation/2548925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548927",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Picanço",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5468329,
+          -23.4443061
+        ]
+      },
+      "id": "relation/2548927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548928",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Ponte Grande",
+        "place": "suburb",
+        "population": "17956",
+        "population:date": "2010",
+        "source:population": "IBGE",
+        "type": "boundary",
+        "wikidata": "Q10351343",
+        "wikipedia": "pt:Ponte Grande (Guarulhos)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5471665,
+          -23.4987791
+        ]
+      },
+      "id": "relation/2548928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548929",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Porto da Igreja",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5285645,
+          -23.481582
+        ]
+      },
+      "id": "relation/2548929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548931",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Torres Tibagy",
+        "name:etymology": "José Carlos de Almeida Torres Tibagy",
+        "place": "suburb",
+        "population": "20019",
+        "source:population": "IBGE 2013",
+        "type": "boundary",
+        "wikidata": "Q25442568",
+        "wikipedia": "pt:Torres Tibagy (Guarulhos)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5499913,
+          -23.455539
+        ]
+      },
+      "id": "relation/2548931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548933",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Vila Augusta",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5409259,
+          -23.4787581
+        ]
+      },
+      "id": "relation/2548933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548935",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Vila Galvão",
+        "place": "suburb",
+        "population": "29968",
+        "source:population": "IBGE 2013",
+        "type": "boundary",
+        "wikidata": "Q10390820",
+        "wikipedia": "pt:Vila Galvão",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.559354,
+          -23.4526397
+        ]
+      },
+      "id": "relation/2548935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548936",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "residential",
+        "name": "Vila Rio",
+        "name:etymology": "Rio de Janeiro",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5345895,
+          -23.4344615
+        ]
+      },
+      "id": "relation/2548936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2548937",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Várzea do Palácio",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q64816397",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.501585,
+          -23.470874
+        ]
+      },
+      "id": "relation/2548937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2550384",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Bananal",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.471344,
+          -23.3981038
+        ]
+      },
+      "id": "relation/2550384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2550386",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Invernada",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4900835,
+          -23.3989155
+        ]
+      },
+      "id": "relation/2550386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2550387",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "São João",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4546149,
+          -23.4020254
+        ]
+      },
+      "id": "relation/2550387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2550388",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Tanque Grande",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4646929,
+          -23.3713455
+        ]
+      },
+      "id": "relation/2550388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/16067398",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "São Roque",
+        "place": "suburb",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5037932,
+          -23.4620005
+        ]
+      },
+      "id": "relation/16067398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253717913",
+        "fixme": "Ajustar contorno à área onde predominam moradias vizinhas.",
+        "name": "Vila Jardim São Manoel",
+        "place": "suburb",
+        "source": "IBGE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4574177,
+          -23.4454248
+        ]
+      },
+      "id": "way/253717913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368179779",
+        "name": "Presidente Dutra",
+        "place": "suburb",
+        "source": "IBGE",
+        "wikidata": "Q121410400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4331148,
+          -23.427714
+        ]
+      },
+      "id": "node/368179779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011730439",
+        "name": "Bonsucesso",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4038815,
+          -23.4112418
+        ]
+      },
+      "id": "node/2011730439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011730444",
+        "name": "Cumbica",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4696396,
+          -23.4578227
+        ]
+      },
+      "id": "node/2011730444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011730447",
+        "name": "Picanço",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5448611,
+          -23.4454656
+        ]
+      },
+      "id": "node/2011730447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011730451",
+        "name": "São João",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4537778,
+          -23.4075719
+        ]
+      },
+      "id": "node/2011730451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014108761",
+        "name": "Aracília",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3709171,
+          -23.4279777
+        ]
+      },
+      "id": "node/2014108761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014108762",
+        "name": "Vila Any",
+        "old_name": "Itaim",
+        "place": "suburb",
+        "population": "29401",
+        "population:date": "2010",
+        "source:name": "LEI Nº 7499, DE 20 DE JULHO DE 2016, DIÁRIO OFICIAL DE GUARULHOS - SP",
+        "source:old_name": "LEI Nº 7499, DE 20 DE JULHO DE 2016, DIÁRIO OFICIAL DE GUARULHOS - SP",
+        "source:population": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3966603,
+          -23.4742704
+        ]
+      },
+      "id": "node/2014108762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014541352",
+        "name": "Bananal",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4708256,
+          -23.40598
+        ]
+      },
+      "id": "node/2014541352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014541355",
+        "name": "Gopoúva",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5460816,
+          -23.4661931
+        ]
+      },
+      "id": "node/2014541355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014541357",
+        "name": "Morros",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.524319,
+          -23.4241162
+        ]
+      },
+      "id": "node/2014541357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014541363",
+        "name": "Vila Galvão",
+        "place": "suburb",
+        "population": "29968",
+        "source:population": "IBGE 2013",
+        "wikidata": "Q10390820",
+        "wikipedia": "pt:Vila Galvão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5620076,
+          -23.4523388
+        ]
+      },
+      "id": "node/2014541363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015186084",
+        "name": "Água Azul",
+        "place": "suburb",
+        "wikidata": "Q10395626",
+        "wikipedia": "pt:Água Azul (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.404149,
+          -23.3611737
+        ]
+      },
+      "id": "node/2015186084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019646391",
+        "addr:city": "Guarulhos",
+        "name": "Fortaleza",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4486577,
+          -23.3770839
+        ]
+      },
+      "id": "node/2019646391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019646393",
+        "name": "Morro Grande",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3817604,
+          -23.3233799
+        ]
+      },
+      "id": "node/2019646393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020802265",
+        "name": "Bela Vista",
+        "name:ja": "ベラビスタ",
+        "place": "suburb",
+        "wikidata": "Q64814916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5115984,
+          -23.4338887
+        ]
+      },
+      "id": "node/2020802265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020802268",
+        "name": "Cabuçu",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5370633,
+          -23.411602
+        ]
+      },
+      "id": "node/2020802268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020802271",
+        "name": "Itapegica",
+        "name:ja": "イタペギカ",
+        "place": "suburb",
+        "population": "21280",
+        "population:date": "2010",
+        "source:population": "IBGE",
+        "wikidata": "Q10304211",
+        "wikipedia": "pt:Lista de bairros de Guarulhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5513841,
+          -23.4846396
+        ]
+      },
+      "id": "node/2020802271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020802831",
+        "name": "Vila Rio",
+        "name:etymology": "José Carlos de Almeida Torres Tibagy",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5339702,
+          -23.4360485
+        ]
+      },
+      "id": "node/2020802831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036291001",
+        "name": "Água Chata",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3928349,
+          -23.4337738
+        ]
+      },
+      "id": "node/2036291001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4088453236",
+        "name": "CECAP",
+        "name:etymology": "Caixa Estadual de Casas para o Povo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4957579,
+          -23.454715
+        ]
+      },
+      "id": "node/4088453236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4356101707",
+        "name": "Centro",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5302985,
+          -23.4685543
+        ]
+      },
+      "id": "node/4356101707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390856403",
+        "name": "Cocaia",
+        "place": "suburb",
+        "wikidata": "Q18472431",
+        "wikipedia": "pt:Cocaia (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.520053,
+          -23.4417743
+        ]
+      },
+      "id": "node/4390856403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4802598062",
+        "name": "Paraventi",
+        "name:etymology": "Celestino Paraventi",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5251966,
+          -23.4539369
+        ]
+      },
+      "id": "node/4802598062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972930897",
+        "name": "Sadokim",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3818394,
+          -23.4098402
+        ]
+      },
+      "id": "node/4972930897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11033412771",
+        "name": "Torres Tibagy",
+        "name:etymology": "José Carlos de Almeida Torres Tibagy",
+        "place": "suburb",
+        "population": "20019",
+        "source:population": "IBGE 2013",
+        "wikidata": "Q25442568",
+        "wikipedia": "pt:Torres Tibagy (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5493619,
+          -23.455691
+        ]
+      },
+      "id": "node/11033412771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11033584793",
+        "name": "Maia",
+        "place": "suburb",
+        "wikidata": "Q10323119",
+        "wikipedia": "pt:Maia (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5310029,
+          -23.4558935
+        ]
+      },
+      "id": "node/11033584793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11033584794",
+        "name": "Macedo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5179268,
+          -23.4636154
+        ]
+      },
+      "id": "node/11033584794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11033584798",
+        "name": "São Roque",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5026557,
+          -23.4623247
+        ]
+      },
+      "id": "node/11033584798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034858032",
+        "name": "Tranquilidade",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5535695,
+          -23.466716
+        ]
+      },
+      "id": "node/11034858032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034858033",
+        "name": "Jardim Vila Galvão",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.560129,
+          -23.4663197
+        ]
+      },
+      "id": "node/11034858033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034858034",
+        "name": "Vila Augusta",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.541532,
+          -23.4783031
+        ]
+      },
+      "id": "node/11034858034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128941048",
+        "name": "Bom Clima",
+        "place": "suburb",
+        "wikidata": "Q18500750",
+        "wikipedia": "pt:Bom Clima (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5182087,
+          -23.4505747
+        ]
+      },
+      "id": "node/11128941048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975324",
+        "name": "Ponte Grande",
+        "name:ja": "ポンテグランデ",
+        "place": "suburb",
+        "population": "17956",
+        "population:date": "2010",
+        "source:population": "IBGE",
+        "wikidata": "Q55384135",
+        "wikipedia": "pt:Ponte Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5488997,
+          -23.4977563
+        ]
+      },
+      "id": "node/11128975324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975326",
+        "name": "Monte Carmelo",
+        "name:etymology": "Mount Carmel",
+        "name:ja": "カルメル山",
+        "place": "suburb",
+        "wikidata": "Q64816330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5111596,
+          -23.4437388
+        ]
+      },
+      "id": "node/11128975326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975327",
+        "name": "Vila Barros",
+        "place": "suburb",
+        "wikidata": "Q64816480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5038739,
+          -23.4464902
+        ]
+      },
+      "id": "node/11128975327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975328",
+        "name": "Fátima",
+        "place": "suburb",
+        "wikidata": "Q64816092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5079118,
+          -23.4573526
+        ]
+      },
+      "id": "node/11128975328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975329",
+        "name": "Lavras",
+        "place": "suburb",
+        "wikidata": "Q10316649",
+        "wikipedia": "pt:Lavras (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4385328,
+          -23.4105787
+        ]
+      },
+      "id": "node/11128975329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975330",
+        "name": "Pimentas",
+        "place": "suburb",
+        "wikidata": "Q10349766",
+        "wikipedia": "pt:Pimentas (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4170937,
+          -23.4584343
+        ]
+      },
+      "id": "node/11128975330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975331",
+        "name": "Mato das Cobras",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4134064,
+          -23.383118
+        ]
+      },
+      "id": "node/11128975331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975333",
+        "name": "Invernada",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4916255,
+          -23.398856
+        ]
+      },
+      "id": "node/11128975333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975334",
+        "name": "Tanque Grande",
+        "place": "suburb",
+        "wikidata": "Q64816384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4668192,
+          -23.3694395
+        ]
+      },
+      "id": "node/11128975334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975335",
+        "name": "Capelinha",
+        "name:etymology": "Capela Bom Jesus",
+        "place": "suburb",
+        "wikidata": "Q1756225",
+        "wikipedia": "pt:Capelinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4249948,
+          -23.3559894
+        ]
+      },
+      "id": "node/11128975335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975336",
+        "addr:city": "Guarulhos",
+        "name": "Porto da Igreja",
+        "place": "suburb",
+        "wikidata": "Q64816350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5268728,
+          -23.4827233
+        ]
+      },
+      "id": "node/11128975336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975337",
+        "name": "Várzea do Palácio",
+        "place": "suburb",
+        "wikidata": "Q64816397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5017697,
+          -23.4715409
+        ]
+      },
+      "id": "node/11128975337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128975338",
+        "name": "Taboão",
+        "place": "suburb",
+        "wikidata": "Q10377745",
+        "wikipedia": "pt:Taboão (Guarulhos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4994003,
+          -23.4223725
+        ]
+      },
+      "id": "node/11128975338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12996527791",
+        "addr:city": "Guarulhos",
+        "name": "Cabuçu de Cima",
+        "place": "suburb",
+        "population": "0",
+        "wikidata": "Q18466297",
+        "wikipedia": "pt:Cabuçu de Cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5145532,
+          -23.3730753
+        ]
+      },
+      "id": "node/12996527791"
+    }
+  ]
+}
