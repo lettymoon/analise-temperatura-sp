@@ -28,7 +28,7 @@ O projeto começa com a cidade de São Paulo, mas foi estruturado para ser facil
 
 * Python
 * Pandas
-* Google Colab 
+* Google Colab
 * CSV
 * Parquet
 * Jupyter Notebook
